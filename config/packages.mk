@@ -33,7 +33,6 @@ PRODUCT_PACKAGES += \
 # Additional apps
 PRODUCT_PACKAGES += \
     SearchLauncherQuickStep \
-    Jelly \
     CarbonDelta \
     GalleryGo \
     MusicPlayerGO \
