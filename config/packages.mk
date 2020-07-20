@@ -35,6 +35,8 @@ PRODUCT_PACKAGES += \
     SearchLauncherQuickStep \
     Jelly \
     CarbonDelta \
+    GalleryGo \
+    MusicPlayerGO \
     ExactCalculator
 
 # SetupWizard
